@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ahmet Esat. Let me introduce myself to you.
+I'm Ahmet Esat. Let me introduce myself:
 
 - 🔭 I’m currently working on **unmanned underwater systems**
 - Because I'll be attending Teknofest with my team next year.
